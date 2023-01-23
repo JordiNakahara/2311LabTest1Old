@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Add line using command line
+=======
+
+>>>>>>> 26ab63dc009f3b415df291f44660371438f86528
